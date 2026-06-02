@@ -50,13 +50,13 @@ end program ComputationalPhysicist
 ![](https://img.shields.io/badge/Tools-AI-informational?style=flat&logo=ai&logoColor=white&color=6aa6f8)
 
 ## 🗂️ Projects
- <a href="https://github.com/c4rlosr4ul/fortran-numerical-methods">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c4rlosr4ul&repo=fortran-numerical-methods&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="fortran-numerical-methods" />
+ <a href="https://github.com/carlosraulps/fortran-numerical-methods">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosraulps&repo=fortran-numerical-methods&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="fortran-numerical-methods" />
 </a>
 
 
-<a href="https://github.com/c4rlosr4ul/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c4rlosr4ul&repo=dotfiles&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="dotfiles" />
+<a href="https://github.com/carlosraulps/dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosraulps&repo=dotfiles&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="dotfiles" />
 </a>
 
 
@@ -73,8 +73,8 @@ end program ComputationalPhysicist
 ## 📈 My GitHub stats:
 
 <div align="center">
-  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=c4rlosr4ul&show_icons=true&theme=dark" />
+  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=carlosraulps&show_icons=true&theme=dark" />
 </div>
 <div align="center">
-  <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4rlosr4ul&hide=html&layout=compact&theme=dark" />
+  <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosraulps&hide=html&layout=compact&theme=dark" />
 </div>
