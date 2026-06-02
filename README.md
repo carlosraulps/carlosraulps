@@ -1,4 +1,4 @@
- # Hello there 👋
+# Hello there 👋
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -32,7 +32,7 @@ end program ComputationalPhysicist
 
 ## 📝 Blogs
 
-- Personal website and blog: https://carlosraulps.github.io/
+- Personal website and blog: <https://carlosraulps.github.io/>
 
 ## 🔧 Technologies & Tools
 
@@ -50,17 +50,16 @@ end program ComputationalPhysicist
 ![](https://img.shields.io/badge/Tools-AI-informational?style=flat&logo=ai&logoColor=white&color=6aa6f8)
 
 ## 🗂️ Projects
+
  <a href="https://github.com/carlosraulps/fortran-numerical-methods">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=carlosraulps&repo=fortran-numerical-methods&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="fortran-numerical-methods" />
 </a>
-
 
 <a href="https://github.com/carlosraulps/dotfiles">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=carlosraulps&repo=dotfiles&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="dotfiles" />
 </a>
 
-
-## 📫 How to reach me:
+## 📫 How to reach me
 
 <a href="https://twitter.com/carlosraulps">
   <img alt="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30">
@@ -69,8 +68,7 @@ end program ComputationalPhysicist
   <img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30">
 </a>
 
-
-## 📈 My GitHub stats:
+## 📈 My GitHub stats
 
 <div align="center">
   <img height="125px" src="https://github-stats-extended.vercel.app/api?username=carlosraulps&show_icons=true&theme=dark" />
