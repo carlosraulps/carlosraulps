@@ -32,7 +32,7 @@ end program ComputationalPhysicist
 
 ## 📝 Blogs
 
-- Personal website and blog: https://c4rlosr4ul.github.io/
+- Personal website and blog: https://carlosraulps.github.io/
 
 ## 🔧 Technologies & Tools
 
